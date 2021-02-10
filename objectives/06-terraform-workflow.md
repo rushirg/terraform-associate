@@ -108,3 +108,8 @@ resource "aws_instance" "example" {
 ```
 
 The `depends_on` argument is accepted by any resource and accepts a list of resources for which to create explicit dependencies.
+
+
+[⬅️] (/05-terraform-modules.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/07-terraform-state.md) 
+
+🏠 (../README.md) Home

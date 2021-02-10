@@ -21,3 +21,7 @@ IaC makes it easy to provision and apply infrastructure configurations by standa
 *   **Systems are disposable** - [immutable infrastructure](https://technicloud.com/2018/01/09/delving-into-immutable-infrastructure/) restricts the impact of undocumented (made outside of version control) changes, this ensures consistency of configuration
 *   **Reusable components** - write configuration using [DRY principle](https://thevaluable.dev/dry-principle-cost-benefit-example/); break the infrastructure into small modules that are reused
 *   **Documented architecture** - code acts as source of truth for configuration, only minimal additional documentation required
+
+Next [➡️] (/02-terraform-purpose.md) 
+
+🏠 (../README.md) Home

@@ -129,3 +129,8 @@ Both commands also work with local state.
 Terraform Cloud always encrypts state at rest and protects it with TLS in transit. Terraform Cloud also knows the identity of the user requesting state and maintains a history of state changes. This is useful for restricting access and tracking activity. Terraform Enterprise also supports detailed audit logging.
 
 The S3 backend supports encryption at rest when the encrypt option is enabled. IAM policies and logging can be used to identify any invalid access. Requests for the state go over a TLS connection.
+
+
+[⬅️] (/06-terraform-workflow.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/08-terraform-configuration.md) 
+
+🏠 (../README.md) Home

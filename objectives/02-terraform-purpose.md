@@ -63,3 +63,7 @@ A common use for multiple workspaces is to create a parallel, distinct copy of a
 ## Operator Confidence
 
 Easily repeatable operations and a planning phase to allow users to ensure the actions taken by Terraform do not cause disruption in their environment. Upon issuing the `terraform apply` command, the user will be prompted to review the proposed changes and must affirm the changes or else Terraform will not apply the proposed plan. 
+
+[⬅️] (/01-iac-concepts.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/03-terraform-basics.md) 
+
+🏠 (../README.md) Home

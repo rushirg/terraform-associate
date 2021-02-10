@@ -117,3 +117,8 @@ module.<MODULE NAME>.<OUTPUT NAME>
 ```
 
 More information about modules can be found [here](https://www.terraform.io/docs/configuration/blocks/modules/index.html).
+
+
+[⬅️] (/04-terraform-cli.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/06-terraform-workflow.md) 
+
+🏠 (../README.md) Home
