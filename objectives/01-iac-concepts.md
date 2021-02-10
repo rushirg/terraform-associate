@@ -22,6 +22,6 @@ IaC makes it easy to provision and apply infrastructure configurations by standa
 *   **Reusable components** - write configuration using [DRY principle](https://thevaluable.dev/dry-principle-cost-benefit-example/); break the infrastructure into small modules that are reused
 *   **Documented architecture** - code acts as source of truth for configuration, only minimal additional documentation required
 
-Next [➡️] (/02-terraform-purpose.md) 
+Next [➡️] (/objectives/02-terraform-purpose.md) 
 
-🏠 (../README.md) Home
+🏠 (README.md) Home

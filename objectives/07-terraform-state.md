@@ -131,6 +131,6 @@ Terraform Cloud always encrypts state at rest and protects it with TLS in transi
 The S3 backend supports encryption at rest when the encrypt option is enabled. IAM policies and logging can be used to identify any invalid access. Requests for the state go over a TLS connection.
 
 
-[⬅️] (/06-terraform-workflow.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/08-terraform-configuration.md) 
+[⬅️] (/objectives/06-terraform-workflow.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/objectives/08-terraform-configuration.md) 
 
-🏠 (../README.md) Home
+🏠 (README.md) Home

@@ -255,6 +255,6 @@ variable "object" {
 Both objects and tuples enable users to have multiple values of several distinct types to be grouped as a single value.
 
 
-[⬅️] (/07-terraform-state.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/09-terraform-cloud-enterprise.md) 
+[⬅️] (/objectives/07-terraform-state.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/objectives/09-terraform-cloud-enterprise.md) 
 
-🏠 (../README.md) Home
+🏠 (README.md) Home
