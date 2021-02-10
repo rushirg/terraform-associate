@@ -287,9 +287,9 @@ resource "aws_instance" "web" {
 }
 ```
 
-By default, a provisioner only runs at creation. To run a provisioned at deletion, it must be explicitly defined. 
+By default, a provisioner only runs at creation. To run a provisioned at deletion, it must be explicitly defined.
 
 
-[⬅️] (/objectives/02-terraform-purpose.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/objectives/04-terraform-cli.md) 
+[⬅️](/objectives/02-terraform-purpose.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next [➡️](/objectives/04-terraform-cli.md)
 
-🏠 (README.md) Home
+[🏠](/README.md) Home

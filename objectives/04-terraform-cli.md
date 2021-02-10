@@ -129,6 +129,6 @@ Users can set `TF_LOG` to one of the log levels `TRACE`, `DEBUG`, `INFO`, `WARN`
 To persist logged output users can set `TF_LOG_PATH` in order to force the log to always be appended to a specific file when logging is enabled. Note that even if `TF_LOG_PATH` is set, `TF_LOG` must be set in order for any logging to be enabled.
 
 
-[⬅️] (/objectives/03-terraform-basics.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Next [➡️] (/objectives/05-terraform-modules.md) 
+[⬅️](/objectives/03-terraform-basics.md) Previous &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next [➡️](/objectives/05-terraform-modules.md)
 
-🏠 (README.md) Home
+[🏠](/README.md) Home

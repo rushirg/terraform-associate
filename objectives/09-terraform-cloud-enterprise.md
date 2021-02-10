@@ -88,6 +88,7 @@ Using Terraform CLI, it is the working directory used to manage collections of r
 Note: Terraform Cloud and Terraform CLI both have features called workspaces, but the features are slightly different. CLI workspaces are alternate state files in the same working directory; a convenience feature for using one configuration to manage multiple similar groups of resources.
 ```
 
-[⬅️] (/objectives/08-terraform-configuration.md) Previous 
 
-🏠 (README.md) Home
+[⬅️](/objectives/08-terraform-configuration.md) Previous 
+
+[🏠](/README.md) Home
