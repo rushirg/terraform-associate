@@ -272,7 +272,7 @@ resource "aws_instance" "web" {
 
 ```
 Note: Expressions in provisioner blocks cannot refer to the parent resource by name. Use the self object to represent the provisioner's parent resource (see previous example). 
-```
+
 
 Additionally, provisioners can also be configured to run when the defined resource is destroyed. This is configured by specifying when = “destroy” within the provisioner block. 
 
